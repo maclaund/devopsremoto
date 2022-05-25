@@ -1,0 +1,2 @@
+# devopsremoto
+repositorio do curso
